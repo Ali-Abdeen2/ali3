@@ -16,3 +16,4 @@ app.listen(3000,()=>{console.log("listen")});
 //git status
 //npm i express
 //npm install -g nodemon
+//npm install --save-dev nodemon
