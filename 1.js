@@ -14,3 +14,4 @@ app.listen(3000,()=>{console.log("listen")});
 //cd file name
 //code .
 //git status
+//npm i express
