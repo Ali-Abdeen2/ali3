@@ -13,3 +13,4 @@ app.listen(3000,()=>{console.log("listen")});
 //git clone url
 //cd file name
 //code .
+//git status
